@@ -20,6 +20,8 @@ Built for long expeditions and experimental runs, the trainer allows you to:
 
 Every feature is modular. Every choice remains yours.
 
+[![Activate Now](../btn.png)](https://icarus-trainer.github.io/.github/)
+
 ---
 
 ## 🧭 Core Systems & Modules
